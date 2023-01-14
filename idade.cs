@@ -15,7 +15,7 @@ public class Test
     segundos = minutos *60;
           Console.WriteLine(calc);
           Console.WriteLine("Você fez esse ano " + calc + " anos");
-      Console.WriteLine("Você já viveu "+ dias + " dias");   
+      Console.WriteLine("Você já viveu "+ dias + " dias");  
      Console.WriteLine("Você já viveu "+ minutos + " minutos");
      Console.WriteLine("Você já viveu " + segundos + " segundos");
          
